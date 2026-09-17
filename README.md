@@ -110,18 +110,6 @@ An AI-powered learning application that helps users turn learning material into 
 
 ---
 
-### 💳 UPI Payment QR Application
-
-A web application that generates customizable **UPI payment QR codes** using a recipient's UPI information.
-
-The project explores QR generation, payment URI structures, frontend/backend integration, and API-based application design.
-
-**Tech:** `React` `Flask` `Python` `QR Code` `REST API`
-
-🔗 **[View Project](https://github.com/Pranali-19)**
-
----
-
 ## 💼 Experience
 
 | Role                                | Organization      | Duration |
