@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Pranali Parteti 👋</h1>
 
 <p align="center">
-  <b>Computer Science Engineer | Software Development | SQL & Python | Cloud Fundamentals | Problem Solving | Open to Opportunities</b>
+  <b>Computer Science Engineer | Software Development |  Python | Problem Solving | AI ||  Open to Opportunities</b>
 </p>
 
 <p align="center">
@@ -146,15 +146,6 @@ Cybersecurity
 ```
 
 I'm continuously improving my development skills by building projects, debugging real-world problems, learning modern technologies, and documenting my work on GitHub.
-
----
-
-## 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pranali-19&show_icons=true&theme=default&hide_border=true" height="165" />
-  <img src="https://streak-stats.demolab.com/?user=Pranali-19&hide_border=true" height="165" />
-</p>
 
 ---
 
